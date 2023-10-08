@@ -50,10 +50,35 @@
 
 # 10. Java 11-Annotations.
 
-# 11. Java 11- Security.
+# 11. Java 11-Security.
 
-# 12. Java 11- Modules.
+# 12. Java 11-Modules.
 
-# 13. Java 17- Introduction.
+# 13. Java 17-Introduction.
 
-# 14. 
+# 14. Java 17-Sealed classes.
+
+# 15. Java 17-Records.
+
+# 16. Java 17-switch expression and pattern matching.
+
+# 17. Java 17-Text blocks.
+
+# 18. Java 17-Assigment.
+
+# 19. Java 21-Introduction, IntelliJ Jva 20, javac.
+
+# 20. Java 21-Unnamed Classes and Instance Main Methods.
+
+# 21. Java 21-Record Patterns.
+
+# 22. Java 21-Pattern Matching for Switch.
+
+# 23. Java 21-Sequence Collections.
+
+# 24. Java 21-Assigment.
+
+# 25. Miscellaneous.
+
+
+
